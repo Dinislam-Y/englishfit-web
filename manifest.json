@@ -1,11 +1,11 @@
 {
-    "name": "Phrase Gym",
-    "short_name": "Phrase Gym",
+    "name": "EnglishFit",
+    "short_name": "EnglishFit",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Interactive English grammar trainer with sentence assembly, listening exercises, and vocabulary building.",
+    "background_color": "#FB923C",
+    "theme_color": "#FB923C",
+    "description": "EnglishFit — interactive English grammar trainer. 195 lessons across 5 levels (A1–C1), 3 training modes, 1000+ voiced words.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

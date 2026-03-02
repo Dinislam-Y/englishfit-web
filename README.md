@@ -1,12 +1,27 @@
-# Phrase Gym — English Grammar Trainer
+# EnglishFit — English Grammar Trainer
 
-Interactive English grammar trainer built with Flutter. Practice sentence assembly, listening comprehension, and vocabulary drills.
+Interactive English grammar trainer. Not a textbook — a workout for your English. Build sentences from words, choose the right answer in seconds, and train your listening skills.
 
-## Live Demo
+## Download
 
-[**Open Phrase Gym**](https://dinislam-y.github.io/phrase-gym-web/)
+[**Android (RuStore)**](https://www.rustore.ru/catalog/app/com.d6apps.englishfit)
+
+## Web Demo
+
+[**Open EnglishFit**](https://dinislam-y.github.io/phrase-gym-web/)
 
 Click **"Continue as Guest"** to try the app without registration.
+
+## What's Inside
+
+- **195 lessons** across 5 levels (A1–C1)
+- **3 training modes:** Sentence Assembly, Binary Choice, Listening
+- **1000+ voiced words** with native pronunciation
+- **Spaced repetition** — the app tracks your mistakes and brings them back
+- **Vocabulary quiz** — learn new words with flashcard drills
+- **Theory & Quizzes** — grammar rules with comprehension tests
+- **Progress tracking** — achievements, streaks, and detailed stats
+- **Fully offline**, no ads
 
 ## Features
 
@@ -43,6 +58,7 @@ lib/
     theory/    # Grammar theory + quizzes
     profile/   # User profile and settings
     achievements/ # Gamification system
+    subscription/  # In-app purchases (RuStore / Google Play / StoreKit)
 ```
 
 ## Screenshots
@@ -54,6 +70,12 @@ lib/
 ## Author
 
 **Dinislam Yakupov** — Flutter Developer
+
+## Links
+
+- [RuStore](https://www.rustore.ru/catalog/app/com.d6apps.englishfit)
+- [Privacy Policy](https://dinislam-y.github.io/englishfit-legal/)
+- [Support](mailto:englishfit.app@mail.ru)
 
 ## License
 
